@@ -27,10 +27,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://countzyx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: countzyx
 github_username:  countzyx
+repository: countzyx/countzyx.github.io
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
+  - jekyll-theme-hacker
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
