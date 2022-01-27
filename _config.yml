@@ -33,7 +33,6 @@ github: [metadata]
 # Build settings
 theme: jekyll-theme-hacker
 plugins:
-  - jekyll-theme-hacker
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
