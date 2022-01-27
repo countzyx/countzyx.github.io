@@ -28,6 +28,7 @@ url: "https://countzyx.github.io" # the base hostname & protocol for your site, 
 twitter_username: countzyx
 github_username:  countzyx
 repository: countzyx/countzyx.github.io
+github: [metadata]
 
 # Build settings
 theme: jekyll-theme-hacker
